@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MajaSLash
-- 👀 I’m interested in 2022 summer internships
-- 🌱 I’m a college sophmore student currently learning C++ and python
+- 👋 Hi, I’m Zachary Whitaker
+- 👀 I’m interested in 2024 summer internships
+- 🌱 I’m a 4th year CS major at Pennsylvania State University
 - 📫 How to reach me: zvw5251@psu.edu
 
 <!---
