@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zachary Whitaker
-- 👀 I’m interested in 2024 summer internships
-- 🌱 I’m a 4th year CS major at Pennsylvania State University
+- 👀 I’m interested in Software & Website Development
+- 🌱 I’m a 4th year CS major at Pennsylvania State University (Graduating December 2024)
 - 📫 How to reach me: zvw5251@psu.edu
 
 <!---
