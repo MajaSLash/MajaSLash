@@ -2,8 +2,8 @@
 - 👀 I’m interested in Web Development, Software Engineering, DevOps, and Cloud Engineering
 - 🌱 I am a Computer Science Graduate from Pennsylvania State University
 - 📫 How to reach me: xiosoft@hotmail.com
-- Resume: https://docs.google.com/document/d/1dK0HX8MmvYNT13M8QkafB4CuRA40eZvrhUOBpSyo2XI/edit?pli=1
-- Leetcode Profile: https://leetcode.com/u/zvw5251/
+- [You can find my resume here](https://docs.google.com/document/d/14GCXkyxns3Jg7TaHDxDjkvyFwm1ZUDD6Bjtfj3x12JE/edit?usp=sharing)
+- [Leetcode Profile](https://leetcode.com/u/zvw5251/)
 <!---
 MajaSLash/MajaSLash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
